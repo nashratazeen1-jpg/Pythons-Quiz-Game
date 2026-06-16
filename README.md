@@ -4,7 +4,7 @@ In this Quiz Game, it just Ask to User Simple 5 Basic Questions of Python with O
 # Game WorkFlow:
 
 1. First, Questions will Display to User with Option A & Option B.
-2. Now, User will enter the Correct Option.
+2. Now, User will Enter the Option.
 3. If, the Entered Option was Correct, 1 will be added to User's Score.
-4. Else, the User Enters the Wrong Option +1 won't Added original Score will remain as it ease.
-5. At the End, the after Answering All Questions Final Score and WINS/LOOSE will be Displayed.
+4. Else, the **User Enters** the **Wrong Option +1 won't Added original Score will remain as it ease**.
+5. At the End, **After Answering All Questions Final Score** and **WINS/LOOSE* will be Displayed.
