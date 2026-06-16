@@ -15,3 +15,4 @@ In this Quiz Game, it just Ask to User Simple 5 Basic Questions of Python with O
 2. Usage of import module, Conditional & Arithemetic Operators.
 3. Understand about Escape Sequence -> \n  & \t
 4. Hands On Practice of Python's Concepts on Usefull Mini Games.
+5. Learned Basic Proficiency in Python.
