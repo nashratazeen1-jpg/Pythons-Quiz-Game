@@ -8,3 +8,9 @@ In this Quiz Game, it just Ask to User Simple 5 Basic Questions of Python with O
 3. If, the Entered Option was Correct, 1 will be added to User's Score.
 4. Else, the **User Enters** the **Wrong Option +1 won't Added Original Score will Remain As it Ease**.
 5. At the End, **After Answering All Questions Final Score** and *WINS/LOOSE* will be Displayed.
+
+# KeyPoints Learned:
+
+1. Implementation of if-else Conditonal Statements.
+2. Usage of import module, Conditional & Arithemetic Operators.
+3. 
