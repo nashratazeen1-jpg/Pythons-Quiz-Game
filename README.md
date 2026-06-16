@@ -13,4 +13,4 @@ In this Quiz Game, it just Ask to User Simple 5 Basic Questions of Python with O
 
 1. Implementation of if-else Conditonal Statements.
 2. Usage of import module, Conditional & Arithemetic Operators.
-3. 
+3. Understand about Escape Sequence -> \n  & \t
