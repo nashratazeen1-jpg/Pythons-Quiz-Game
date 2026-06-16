@@ -17,6 +17,7 @@ print("b.Value of Different DataTypes\n")
 time.sleep(1)
 Ans1 = input("Select the Correct Option: ")
 
+
 if ( Ans1 == "a" ):
     print("Option (a) is Wrong ❌ , Correct one is (b)\n")
 else:
