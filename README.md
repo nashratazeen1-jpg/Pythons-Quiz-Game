@@ -17,5 +17,3 @@ In this Quiz Game, ***it just Asks to User 5 Basic Questions of Python with Opti
 4. Hands On Practice of Python's Concepts on Usefull Mini Games.
 5. Learned Basic Proficiency in Python.
 
-
-
